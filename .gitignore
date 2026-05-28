@@ -19,3 +19,8 @@ my-projects.code-workspace
 
 # Airflow
 airflow/logs/
+data/synthea-with-dependencies.jar
+
+# file created for testing only
+
+testing.ipynb
