@@ -1,0 +1,21 @@
+﻿# Python / Virtual Env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Data
+data/synthea_output/
+
+# dbt
+dbt/healthflow/profiles.yml
+dbt/healthflow/target/
+dbt/healthflow/dbt_packages/
+dbt/healthflow/logs/
+
+# VS Code: workspace file
+my-projects.code-workspace
+
+# Airflow
+airflow/logs/
